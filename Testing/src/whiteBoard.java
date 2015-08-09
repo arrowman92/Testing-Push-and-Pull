@@ -50,3 +50,4 @@ public class whiteBoard extends JFrame {
         clock.paint();*/
     }
 }
+/*asdasdhasiudhuiashi this is a revision o.o*/
